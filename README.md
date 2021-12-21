@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielle-design
-- 👀 I’m interested in python
+- 👀 I’m interested in python,rstudio,matlab,and octave
 - 🌱 I’m currently learning rstudio
 - 💞️ I’m looking to collaborate on proyects of finance and economics
 - 📫 How to reach me 
